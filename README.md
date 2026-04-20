@@ -4,8 +4,6 @@
 
 ## 如何在 Unity 里打开查看
 
-## 如何在 Unity 里打开查看
-
 1. 先保留整个 `character_model` 文件夹结构，不要只单独拷贝某个 `Assets` 文件夹。
 2. 打开 **Unity Hub**。
 3. 点击 **Projects / 项目** 里的 **Add / Open / Add project from disk**。
